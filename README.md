@@ -7,9 +7,10 @@ Belajar kelas tentang Git dan GitHub. (Progres 38%)
 * Studi kasus pengalaman belajar
 
 **11 Februari 2024**<br>
-Studi Kasus Pengalaman Belajar. (41%)
+Studi Kasus Pengalaman Belajar. (42%)
 * Persiapan Studi Kasus Pengalaman Belajar
 * Membuat Repository Baru
 * Menambahkan Pengalaman Belajar Pertama
 * Menambahkan Kembali Progres Belajar
 * Mengubah Tampilan Menggunakan Markdown
+* Tantangan Menambahkan Progres Belajar
